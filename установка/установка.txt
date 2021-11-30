@@ -1,0 +1,4 @@
+В редакторе выбрать file>settings>file watcchers
+Нажимаем на +, и добовляем scss
+В program задаем путь к sassc.exe
+Далее в Arguments прописываем то что лежит в php storm row.txt
